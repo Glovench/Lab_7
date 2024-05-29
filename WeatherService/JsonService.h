@@ -2,7 +2,6 @@
 #include "Service.h"
 #include "Weather.h"
 #include "json.hpp"
-#include <exception>
 #include <fstream>
 
 class JsonService : public Service
